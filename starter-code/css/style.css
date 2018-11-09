@@ -1,1 +1,48 @@
 /* TODO: Make it awesome */
+
+html{
+  background: rgb(169, 232, 233);
+}
+
+#title {
+
+  font-family: 'Monoton', cursive;
+  font-size: 55px;
+  margin: auto;
+  width: 40%;
+}
+#list{
+  border: 1px solid black;
+  padding-top: 100px;
+}
+
+#cart{
+  padding-top: 100px;
+
+}
+
+#legend{
+padding-top: 100px;
+}
+
+body{
+  font-family: 'Marcellus', serif;
+  font-size: 20px;
+}
+
+#home{
+  display: inline;
+  text-align: center;
+
+}
+
+
+
+footer{
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  margin: 0%;
+
+
+}
